@@ -2,7 +2,7 @@ from vidstream import *
 import socket
 import getpass
 
-host = ""
+host = "92.0.4515.131"
 socket_port = 8080
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
